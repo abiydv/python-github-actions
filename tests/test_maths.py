@@ -9,7 +9,7 @@ add tests
 
 """
 
-# test add
+# test add success
 def test_add_success():
     assert src.add(2,2) == 4
 
